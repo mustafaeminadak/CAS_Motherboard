@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=OSC_IN Pin=U2-6
+Added Pin To Net: NetName=OSC_OUT Pin=U2-6

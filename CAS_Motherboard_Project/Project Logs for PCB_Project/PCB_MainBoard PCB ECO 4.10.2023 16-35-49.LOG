@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=SERVO3 Pin=J22-1
+Removed Pin From Net: NetName=ENABLE3 Pin=J22-3
+Added Pin To Net: NetName=ENABLE3 Pin=J22-1
+Added Pin To Net: NetName=SERVO3 Pin=J22-3
